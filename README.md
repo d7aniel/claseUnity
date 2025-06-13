@@ -6,6 +6,11 @@ Este proyecto forma parte de una clase de Introducción a Unity y funciona como 
     https://www.youtube.com/watch?v=mO3jUU2PYvM&t=6883s
 
 🎯 Qué vas a aprender
+    
+    Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
     Configurar un entorno de plataformas 2D en Unity.
 
