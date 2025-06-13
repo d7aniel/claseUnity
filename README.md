@@ -1,3 +1,15 @@
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
+
+-OR-
+
+ Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2 
+          
 🕹️ Introducción a Unity – Plataformero Básico
 
 Este proyecto forma parte de una clase de Introducción a Unity y funciona como un ejercicio inicial para construir un juego de plataformas 2D simple. Está diseñado para ayudar a personas que se inician en Unity a familiarizarse con la interfaz, la programación básica y las mecánicas principales de un videojuego.
