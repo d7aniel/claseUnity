@@ -7,7 +7,7 @@ Este proyecto forma parte de una clase de Introducción a Unity y funciona como 
 
 🎯 Qué vas a aprender
     
-    Markup : * Bullet list
+Markup : * Bullet list
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
