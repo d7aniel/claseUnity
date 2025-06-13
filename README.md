@@ -1,9 +1,12 @@
 🕹️ Introducción a Unity – Plataformero Básico
 
-Este proyecto forma parte de una clase de Introducción a Unity y funciona como un ejercicio inicial para construir un juego de plataformas 2D simple. Está diseñado para ayudar a personas que se inician en Unity a familiarizarse con la interfaz, la programación básica y las mecánicas principales de un videojuego.
+Este proyecto forma es el resultado de una clase donde se dieron las bases para construir un juego de plataformas 2D simple en Unity. Está diseñado para ayudar a personas que se inician en Unity a familiarizarse con la interfaz, la programación básica y las mecánicas principales de un videojuego.
 
-   🎥 Podés seguir toda la clase en YouTube (en español):
+   🎥 Puedes seguir toda la clase en YouTube (en español):
    https://www.youtube.com/watch?v=mO3jUU2PYvM
+
+   🎮 O probar el resultado:
+   https://d7aniel.github.io/Simple_Plataformer_Unity/
 
    <br/>
 
@@ -43,10 +46,15 @@ Este proyecto forma parte de una clase de Introducción a Unity y funciona como 
 
 🕹️ Introduction to Unity – Basic Platformer
 
-This project is part of an Introduction to Unity class and serves as a foundational exercise in building a simple 2D platformer game. It is designed to help beginners become familiar with Unity's interface, basic scripting, and core game mechanics.
+This projectserves is the result of a clase on building a simple 2D platformer game in Unity. It is designed to help beginners become familiar with Unity's interface, basic scripting, and core game mechanics.
 
-    🎥 You can follow the entire class on YouTube (in Spanish):
-    https://www.youtube.com/watch?v=mO3jUU2PYvM&t=6883s
+   🎥 You can follow the entire class on YouTube (in Spanish):
+   https://www.youtube.com/watch?v=mO3jUU2PYvM&t=6883s
+    
+   🎮 Or test the result:
+   https://d7aniel.github.io/Simple_Plataformer_Unity/
+
+   <br/>
 
 🎯 What You'll Learn
 
